@@ -1,3 +1,5 @@
+## Custom YOLOV7 detect script
+
 import argparse
 import time
 from pathlib import Path
